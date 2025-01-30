@@ -12,6 +12,8 @@ You have 3 attempts to guess the correct number.
 
 If you fail... your operating system deletes itself. (😱)
 
+![image](https://github.com/user-attachments/assets/b6017c47-6e3c-4554-b53d-8759d1a0681c)
+
 # 🛠 Setup
 
 # Clone the repository
