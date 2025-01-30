@@ -8,7 +8,7 @@
 
 # Run the game in Node.js.
 
-You have 3 attempts to guess the correct number.
+You have 1 attempts to guess the correct number.
 
 If you fail... your operating system deletes itself. (😱)
 
@@ -36,7 +36,7 @@ node squidgame.js
 
 # 📜 Rules
 
-You get ONLY 3 attempts.
+You get ONLY 1 attempts.
 
 If you guess correctly, you win 🎉
 
