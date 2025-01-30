@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/sqid-game.git
 ```
 
 ```bash
-cd real-squid-game
+cd squid-game
 
 ```
 
